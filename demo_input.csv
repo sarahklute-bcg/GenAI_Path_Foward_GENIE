@@ -1,3 +1,0 @@
-record,company_name,workflow_key,adoption_stage,dem_industry_final,dem_sector_dialectica,function_standardized,function,workflow_text,dem_region,dem_country,bffxai_score,bffxai_maturitystage
-1753,Leonardo,Aerospace & Defense - Customer Service - AI Assistant for Onsite Field Technicians,4,Industrial Goods,Aerospace & Defense,Customer Service,Customer Service,AI Assistant for Onsite Field Technicians ... ensuring service consistency,EMESA,Italy,73.68,Scaling
-1905,Bharat Forge Limited,Aerospace & Defense - Maintenance - Digital Twin Simulation for Predictive Maintenance,3,Industrial Goods,Aerospace & Defense,Maintenance,Maintenance,Digital Twin Simulation for Predictive Maintenance ... optimizing fleet readiness,APAC,India,28.36,Emerging
