@@ -1,0 +1,11 @@
+# Ignore all Excel files
+*.xlsx
+*.xls
+*.xlsm
+*.xltx
+*.xltm
+# Ignore all files with .excl extension
+*.excl
+# Ignore data folders
+/data/
+!/data/.gitkeep
